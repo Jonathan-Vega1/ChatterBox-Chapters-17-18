@@ -1,3 +1,4 @@
+// Jonathan Vega
 import $ from 'jquery';
 import md5 from 'crypto-js/md5';
 import moment from 'moment';

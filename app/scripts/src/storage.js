@@ -1,3 +1,4 @@
+// Jonathan Vega
 class Store {
   constructor(storageApi) {
     this.api = storageApi;

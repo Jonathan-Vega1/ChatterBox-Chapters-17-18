@@ -1,3 +1,4 @@
+// Jonathan Vega
 import socket from './ws-client';
 import {
   UserStore

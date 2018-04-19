@@ -1,3 +1,4 @@
+// Jonathan Vega
 let socket;
 
 function init(url) {
